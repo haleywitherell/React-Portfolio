@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+header {
+  max-height: 100px;
+}
+
+.gradient {
+  background-image: radial-gradient(ellipse, rgb(182, 174, 174), white);
+}
+
+h1 {
+  color:white;
+  font-family: cursive;
+}
+
+.navbar-nav {
+  text-align: center;
+  justify-content: center;
+}
+
+footer {
+max-height: 50px;
+}
+
+p3 {
+  color: white;
+  font-family: cursive;
+  font-size: 16px;
+}

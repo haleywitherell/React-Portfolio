@@ -1,13 +1,13 @@
 import React from 'react'
 
-const index = () => {
+const Header = () => {
     return (
         <div>
-            <header class="jumbotron gradient">
+            <header className="jumbotron jumbotron-fluid gradient">
                 <h1>Haley Witherell</h1>
             </header>
         </div>
     )
 }
 
-export default index
+export default Header;

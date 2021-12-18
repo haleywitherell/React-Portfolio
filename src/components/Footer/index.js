@@ -1,11 +1,13 @@
 import React from 'react'
 
-const index = () => {
+const Footer = () => {
     return (
         <div>
-            <footer></footer>
+            <footer className="jumbotron gradient">
+                <p3>Haley Witherell est. 2021</p3>
+            </footer>
         </div>
     )
 }
 
-export default index
+export default Footer;
