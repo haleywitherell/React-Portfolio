@@ -5,7 +5,7 @@ const About = () => {
         <div>
             <section id="about" class="container">
         <h2>About Me</h2>
-            <p1>Hey i'm Haley <span id="wave">👋🏾</span> Welcome to my portfolio! My current background is in communications, marketing and PR. I am new to web development but i'm working hard to master this craft by improving and expanding my skill set. Check back soon for updates!</p1>
+            <p1>Hey i'm Haley <span id="wave">👋🏾</span> I am an account manager for a graphic design and print/prepress agency. I have experience in web devlopment, marketing, advertising, communications, design and PR.  </p1>
     </section>
 
     <hr class="solid container"></hr>

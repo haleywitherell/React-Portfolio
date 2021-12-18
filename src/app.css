@@ -1,3 +1,7 @@
+:root {
+  --font-family: 'Courier New', Courier, monospace;
+}
+
 .App {
   text-align: center;
 }
@@ -38,7 +42,8 @@
 }
 
 header {
-  max-height: 100px;
+  max-height: 50px;
+  margin-top: 20px;
 }
 
 .gradient {
@@ -47,12 +52,16 @@ header {
 
 h1 {
   color:white;
-  font-family: cursive;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+nav {
+  text-align: center;
+  justify-content: center;
 }
 
 .navbar-nav {
-  text-align: center;
-  justify-content: center;
+  color: black;
 }
 
 footer {
@@ -61,6 +70,23 @@ max-height: 50px;
 
 p3 {
   color: white;
-  font-family: cursive;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 16px;
+}
+
+p1, p {
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 16px;
+}
+
+h2{
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 16px; 
+}
+.footer-links {
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
   font-size: 16px;
 }
