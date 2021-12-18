@@ -44,7 +44,7 @@ const Portfolio = () => {
         <div className="container d-flex justify-content-center">
             <div className="comlumn">
                 <div id="img1">
-                    <img className="img-fluid rounded" src="./Images/Travel Reviews.gif" alt="Work Example 3"/>  
+                    <img className="img-fluid rounded" src="./assets/Travel Reviews.gif" alt="Work Example 3"/>  
                 </div>
             </div>
         </div>

@@ -7,7 +7,7 @@ const Contact = () => {
             <p>Wanna work together? Let's get in touch!</p>
             <form>
                 <div class="form-group row">
-                    <label for="colFormLabel" class="col-sm-2 col-form-label col-form-label-sm">Name:</label>
+                    <label for="colFormLabel" class="col-sm-2 col-form-label col-form-label">Name:</label>
                     <div class="col-sm-10">
                     <input type="email" class="form-control form-control" id="colFormLabel" placeholder="Please enter your name"/>
                     </div>
@@ -26,6 +26,7 @@ const Contact = () => {
                     <textarea type="email" class="form-control" id="colFormLabel" placeholder="Type your message here"></textarea>
                     </div>
                 </div>
+                    <button type="button" class="btn btn-outline-dark">Submit</button>
             </form>
            
         </div>
