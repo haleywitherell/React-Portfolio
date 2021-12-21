@@ -29,7 +29,7 @@ const Portfolio = () => {
         <div className="container d-flex justify-content-center">
             <div className="comlumn">
                 <div id="img1">
-                    <img className="img-fluid rounded" src="./Images/Password Generator.gif" alt="Work Example 2"/>  
+                    <img className="img-fluid rounded" src="%PUBLIC_URL%/assets.passwordGen.png"/>  
                 </div>
             </div>
         </div>

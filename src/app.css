@@ -94,3 +94,5 @@ h2{
 footer {
   margin-top: 20px;
 }
+
+a::before {color: black;}

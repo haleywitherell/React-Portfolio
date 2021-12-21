@@ -18,6 +18,8 @@ Haley Witherell
 
 ## Deployed Links 
 
+## Screenshots
+
 
 ## Questions
 
