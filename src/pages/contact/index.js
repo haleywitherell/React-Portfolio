@@ -2,10 +2,10 @@ import React from 'react'
 
 const Contact = () => {
     return (
-        <div id="contact">
+        <div class="conatainer">
             <h2>Contact Me</h2>
             <p>Wanna work together? Let's get in touch!</p>
-            <form>
+            <form className="container">
                 <div class="form-group row">
                     <label for="colFormLabel" class="col-sm-2 col-form-label col-form-label">Name:</label>
                     <div class="col-sm-10">

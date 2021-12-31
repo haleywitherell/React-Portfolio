@@ -1,7 +1,3 @@
-:root {
-  --font-family: 'Courier New', Courier, monospace;
-}
-
 .App {
   text-align: center;
 }
@@ -95,4 +91,18 @@ footer {
   margin-top: 20px;
 }
 
-a::before {color: black;}
+label {
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 16px; 
+}
+
+a {
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px; 
+}
+
+textarea {
+  font-family: 'Courier New', Courier, monospace;
+}

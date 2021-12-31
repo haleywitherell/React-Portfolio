@@ -1,4 +1,5 @@
 import React from 'react'
+import nameOfImage from '../../img/planner.png'
 
 const Portfolio = () => {
     return (
@@ -8,36 +9,36 @@ const Portfolio = () => {
         <p>Visit my GitHub account to view all past projects!</p>
 
         <p>Meal and Work Out Planner</p>
-        <a className="container d-flex justify-content-center" href="https://haleywitherell.github.io/Health-Wellness/">Deployed Link</a>
-        <a className="container d-flex justify-content-center" href="https://github.com/haleywitherell/Health-Wellness">GitHub URL</a>
+        <a className="container d-flex justify-content-center text-dark nav-link" href="https://haleywitherell.github.io/Health-Wellness/">View Site</a>
+        <a className="container d-flex justify-content-center text-dark nav-link" href="https://github.com/haleywitherell/Health-Wellness">View on GitHub</a>
 
         <div className="container d-flex justify-content-center">
             <div className="comlumn">
                 <div id="img1">
-                    <img className="img-fluid rounded" src="./assets.Weekly-Planner.gif" alt="Work Example 1"/>  
+                    <img className="img-fluid rounded" src={nameOfImage} alt="Work Example 1"/>  
                 </div>
             </div>
         </div>
 
     
         <p>Password Generator</p>
-        <a className="container d-flex justify-content-center" href="https://haleywitherell.github.io/Password-Generator/">Deployed Link</a>
-        <a className="container d-flex justify-content-center" href="https://github.com/haleywitherell/Password-Generator">GitHub URL</a>
+        <a className="container d-flex justify-content-center text-dark nav-link" href="https://haleywitherell.github.io/Password-Generator/">View Site</a>
+        <a className="container d-flex justify-content-center text-dark nav-link" href="https://github.com/haleywitherell/Password-Generator">View on GitHub</a>
 
         
 
         <div className="container d-flex justify-content-center">
             <div className="comlumn">
                 <div id="img1">
-                    <img className="img-fluid rounded" src="%PUBLIC_URL%/assets.passwordGen.png"/>  
+                    <img className="img-fluid rounded" src="%PUBLIC_URL%/assets.passwordGen.png" alt="Work Example 2"/>  
                 </div>
             </div>
         </div>
 
     
         <p>Travel Reviews Blog</p>
-        <a className="container d-flex justify-content-center" href="https://intense-scrubland-56931.herokuapp.com/login">Deployed Link</a>
-        <a className="container d-flex justify-content-center" href="https://github.com/bckasper/Travel-blog">GitHub URL</a>
+        <a className="container d-flex justify-content-center text-dark nav-link" href="https://intense-scrubland-56931.herokuapp.com/login">View Site</a>
+        <a className="container d-flex justify-content-center text-dark nav-link" href="https://github.com/bckasper/Travel-blog">View on GitHub</a>
 
 
 
