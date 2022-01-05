@@ -1,5 +1,7 @@
 import React from 'react'
-import nameOfImage from '../../img/planner.png'
+import planner from '../../img/planner.png'
+import travel from '../../img/travel-blog.png'
+import password from '../../img/passwordGen.png'
 
 const Portfolio = () => {
     return (
@@ -15,7 +17,7 @@ const Portfolio = () => {
         <div className="container d-flex justify-content-center">
             <div className="comlumn">
                 <div id="img1">
-                    <img className="img-fluid rounded" src={nameOfImage} alt="Work Example 1"/>  
+                    <img className="img-fluid rounded" src={planner} alt="Work Example 1"/>  
                 </div>
             </div>
         </div>
@@ -30,7 +32,7 @@ const Portfolio = () => {
         <div className="container d-flex justify-content-center">
             <div className="comlumn">
                 <div id="img1">
-                    <img className="img-fluid rounded" src="%PUBLIC_URL%/assets.passwordGen.png" alt="Work Example 2"/>  
+                    <img className="img-fluid rounded" src={password} alt="Work Example 2"/>  
                 </div>
             </div>
         </div>
@@ -45,7 +47,7 @@ const Portfolio = () => {
         <div className="container d-flex justify-content-center">
             <div className="comlumn">
                 <div id="img1">
-                    <img className="img-fluid rounded" src="./assets/Travel Reviews.gif" alt="Work Example 3"/>  
+                    <img className="img-fluid rounded" src={travel} alt="Work Example 3"/>  
                 </div>
             </div>
         </div>
