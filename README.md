@@ -18,6 +18,8 @@ Haley Witherell
 
 ## Deployed Links 
 
+GitHub Pages: https://haleywitherell.github.io/React-Portfolio/
+
 ## Screenshots
 
 
