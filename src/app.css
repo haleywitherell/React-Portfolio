@@ -76,6 +76,12 @@ p1, p {
   font-size: 16px;
 }
 
+p2 {
+  font-size: 20px;
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+}
+
 h2{
   color: black;
   font-family: 'Courier New', Courier, monospace;
