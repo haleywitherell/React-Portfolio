@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.a12eead7.css",
-    "main.js": "/React-Portfolio/static/js/main.721112cb.js",
+    "main.css": "/React-Portfolio/static/css/main.6e529d82.css",
+    "main.js": "/React-Portfolio/static/js/main.960b10d9.js",
     "static/js/787.66975ca6.chunk.js": "/React-Portfolio/static/js/787.66975ca6.chunk.js",
+    "static/media/books.png": "/React-Portfolio/static/media/books.f65143cfd7a14fb858b3.png",
     "static/media/planner.png": "/React-Portfolio/static/media/planner.9603211750426679b400.png",
+    "static/media/Haley Witherell Resume Portfolio.pdf": "/React-Portfolio/static/media/Haley Witherell Resume Portfolio.6e8da5d43c22bd5fe7fd.pdf",
     "static/media/travel-blog.png": "/React-Portfolio/static/media/travel-blog.400703705a142fc422de.png",
     "static/media/passwordGen.png": "/React-Portfolio/static/media/passwordGen.0295a5b5213bb0008cdd.png",
+    "static/media/workout-tracker.png": "/React-Portfolio/static/media/workout-tracker.864663d39dca28d648c0.png",
     "index.html": "/React-Portfolio/index.html",
-    "main.a12eead7.css.map": "/React-Portfolio/static/css/main.a12eead7.css.map",
-    "main.721112cb.js.map": "/React-Portfolio/static/js/main.721112cb.js.map",
+    "main.6e529d82.css.map": "/React-Portfolio/static/css/main.6e529d82.css.map",
+    "main.960b10d9.js.map": "/React-Portfolio/static/js/main.960b10d9.js.map",
     "787.66975ca6.chunk.js.map": "/React-Portfolio/static/js/787.66975ca6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a12eead7.css",
-    "static/js/main.721112cb.js"
+    "static/css/main.6e529d82.css",
+    "static/js/main.960b10d9.js"
   ]
 }
