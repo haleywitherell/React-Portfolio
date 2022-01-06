@@ -22,9 +22,9 @@ GitHub Pages: https://haleywitherell.github.io/React-Portfolio/
 
 ## Screenshots
 
-![Screenshot of site.](/img/SS1.png)
-![Screenshot of site.](/img/SS2.png)
-![Screenshot of site.](/img/SS3.png)
+![Screenshot of site.](/screenshots/SS1.png)
+![Screenshot of site.](/screenshots/SS2.png)
+![Screenshot of site.](/screenshots/SS3.png)
 
 ## Questions
 
