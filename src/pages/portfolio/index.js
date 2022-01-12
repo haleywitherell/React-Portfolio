@@ -14,7 +14,7 @@ const Portfolio = () => {
 
     
         <div>
-            <div className="card text-center h-100">
+            <div>
                 <img src={planner} className="card-img-top" alt="Meal and Workout Planner"/>
                     <div className="card-body">
                         <h3 className="card-title fw-bold">Meal and Workout Planner</h3>
@@ -27,7 +27,7 @@ const Portfolio = () => {
 
 
         <div>
-            <div className="card text-center h-100">
+            <div>
                 <img src={password} className="card-img-top" alt="Password Generator"/>
                     <div className="card-body">
                         <h3 className="card-title fw-bold">Password Generator</h3>
@@ -39,7 +39,7 @@ const Portfolio = () => {
         </div>
 
         <div>
-            <div className="card text-center h-100">
+            <div>
                 <img src={travel} className="card-img-top" alt="Travel Blog"/>
                     <div className="card-body">
                         <h3 className="card-title fw-bold">Travel Blog</h3>
@@ -52,7 +52,7 @@ const Portfolio = () => {
 
 
         <div>
-            <div className="card text-center h-100">
+            <div>
                 <img src={books} className="card-img-top" alt="Book Search App"/>
                     <div className="card-body">
                         <h3 className="card-title fw-bold">Book Search App</h3>
@@ -66,7 +66,7 @@ const Portfolio = () => {
 
         
         <div>
-            <div className="card text-center h-100">
+            <div>
                 <img src={workout} className="card-img-top" alt="Fitness Tracker"/>
                     <div className="card-body">
                         <h3 className="card-title fw-bold">Fitness Tracker</h3>
