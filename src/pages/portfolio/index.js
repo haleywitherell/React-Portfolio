@@ -13,7 +13,7 @@ const Portfolio = () => {
         <p>Visit my GitHub account to view all past projects!</p>
 
     
-        <div className="col-12 col-lg-4">
+        <div>
             <div className="card text-center h-100">
                 <img src={planner} className="card-img-top" alt="Meal and Workout Planner"/>
                     <div className="card-body">
@@ -26,7 +26,7 @@ const Portfolio = () => {
         </div>
 
 
-        <div className="col-12 col-lg-4">
+        <div>
             <div className="card text-center h-100">
                 <img src={password} className="card-img-top" alt="Password Generator"/>
                     <div className="card-body">
@@ -38,7 +38,7 @@ const Portfolio = () => {
             </div>
         </div>
 
-        <div className="col-12 col-lg-4">
+        <div>
             <div className="card text-center h-100">
                 <img src={travel} className="card-img-top" alt="Travel Blog"/>
                     <div className="card-body">
@@ -51,7 +51,7 @@ const Portfolio = () => {
         </div>
 
 
-        <div className="col-12 col-lg-4">
+        <div>
             <div className="card text-center h-100">
                 <img src={books} className="card-img-top" alt="Book Search App"/>
                     <div className="card-body">
@@ -65,7 +65,7 @@ const Portfolio = () => {
 
 
         
-        <div className="col-12 col-lg-4">
+        <div>
             <div className="card text-center h-100">
                 <img src={workout} className="card-img-top" alt="Fitness Tracker"/>
                     <div className="card-body">
