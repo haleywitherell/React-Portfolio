@@ -60,8 +60,20 @@ nav {
   color: black;
 }
 
+.footer-links {
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+}
+
 footer {
-max-height: 50px;
+  margin-top: 20px;
+}
+p4 {
+  font-size: 20px;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
 }
 
 p3 {
@@ -92,21 +104,6 @@ h3 {
   font-family: 'Courier New', Courier, monospace;
   font-size: 16px; 
   font-weight: bolder;
-}
-.footer-links {
-  color: white;
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 20px;
-}
-
-footer {
-  margin-top: 20px;
-}
-p4 {
-  font-size: 20px;
-  color: white;
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 20px;
 }
 
 label {
