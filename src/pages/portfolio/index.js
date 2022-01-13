@@ -25,6 +25,8 @@ const Portfolio = () => {
             </div>
         </div>
 
+        <br></br>
+        <br></br>
 
         <div>
             <div>
@@ -38,6 +40,9 @@ const Portfolio = () => {
             </div>
         </div>
 
+        <br></br>
+        <br></br>
+
         <div>
             <div>
                 <img src={travel} className="card-img-top" alt="Travel Blog"/>
@@ -50,6 +55,8 @@ const Portfolio = () => {
             </div>
         </div>
 
+        <br></br>
+        <br></br>
 
         <div>
             <div>
@@ -63,7 +70,8 @@ const Portfolio = () => {
             </div>
         </div>
 
-
+        <br></br>
+        <br></br>
         
         <div>
             <div>
@@ -76,7 +84,6 @@ const Portfolio = () => {
                     </div>
             </div>
         </div>
-
     </main>
         
     <hr class="solid container"></hr>
