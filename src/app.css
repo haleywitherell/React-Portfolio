@@ -42,7 +42,7 @@ header {
 }
 
 .gradient {
-  background-image: radial-gradient(ellipse, rgb(182, 174, 174), white);
+  background-image: radial-gradient(ellipse, rgb(147, 130, 232), white);
 }
 
 h1 {
