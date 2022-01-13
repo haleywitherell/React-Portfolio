@@ -13,10 +13,10 @@ const Navbar = () => {
                             <a className="nav-link text-dark" href="#work">Portfolio</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link text-dark" href={resume} target="_blank">Resume</a>
+                            <a className="nav-link text-dark" href="#contact">Contact</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link text-dark" href="#contact">Contact</a>
+                            <a className="nav-link text-dark" href={resume} target="_blank">Resume</a>
                         </li>
                     </ul>
                 </nav>
