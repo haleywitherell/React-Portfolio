@@ -12,22 +12,6 @@ const Portfolio = () => {
         <h2>Work & Projects</h2>
         <p>Visit my GitHub account to view all past projects!</p>
 
-    
-        <div>
-            <div>
-                <img src={planner} className="card-img-top" alt="Meal and Workout Planner"/>
-                    <div className="card-body">
-                        <h3 className="card-title fw-bold">Meal and Workout Planner</h3>
-                        <p className="card-text">Plan your weekly meals and workouts using this weekly planner. Prep in advance and hold yourself accountable by creating a plan at the start of each week!</p>
-                        <a className="container d-flex justify-content-center text-dark nav-link" href="https://haleywitherell.github.io/Health-Wellness/" className="btn btn-outline-dark m-2" target="_blank">View Site</a>
-                        <a className="container d-flex justify-content-center text-dark nav-link" href="https://github.com/haleywitherell/Health-Wellness" className="btn btn-outline-dark m-2" target="_blank">View on GitHub</a>
-                    </div>
-            </div>
-        </div>
-
-        <br></br>
-        <br></br>
-
         <div>
             <div>
                 <img src={password} className="card-img-top" alt="Password Generator"/>
@@ -51,6 +35,21 @@ const Portfolio = () => {
                         <p className="card-text">Need advice on where to plan your next trip? Browse travel reviews of different countires and cities around the globe. You can also review your own trips and leave tips and travel hacks for others. </p>
                         <a className="container d-flex justify-content-center text-dark nav-link" href="https://intense-scrubland-56931.herokuapp.com/login" className="btn btn-outline-dark m-2" target="_blank">View Site</a>
                         <a className="container d-flex justify-content-center text-dark nav-link" href="https://github.com/bckasper/Travel-blog" className="btn btn-outline-dark m-2" target="_blank">View on GitHub</a>
+                    </div>
+            </div>
+        </div>
+
+        <br></br>
+        <br></br>
+
+        <div>
+            <div>
+                <img src={planner} className="card-img-top" alt="Meal and Workout Planner"/>
+                    <div className="card-body">
+                        <h3 className="card-title fw-bold">Meal and Workout Planner</h3>
+                        <p className="card-text">Plan your weekly meals and workouts using this weekly planner. Prep in advance and hold yourself accountable by creating a plan at the start of each week!</p>
+                        <a className="container d-flex justify-content-center text-dark nav-link" href="https://haleywitherell.github.io/Health-Wellness/" className="btn btn-outline-dark m-2" target="_blank">View Site</a>
+                        <a className="container d-flex justify-content-center text-dark nav-link" href="https://github.com/haleywitherell/Health-Wellness" className="btn btn-outline-dark m-2" target="_blank">View on GitHub</a>
                     </div>
             </div>
         </div>
