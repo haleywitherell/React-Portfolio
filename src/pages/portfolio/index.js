@@ -18,7 +18,7 @@ const Portfolio = () => {
                 <img src={planner} className="card-img-top" alt="Meal and Workout Planner"/>
                     <div className="card-body">
                         <h3 className="card-title fw-bold">Meal and Workout Planner</h3>
-                        <p className="card-text">Need a unique password created on the fly? Use the random password generator app which creates random passwords using capital letters, lowercase letters, numbers and or symbols.</p>
+                        <p className="card-text">Plan your weekly meals and workouts using this weekly planner. Prep in advance and hold yourself accountable by creating a plan at the start of each week!</p>
                         <a className="container d-flex justify-content-center text-dark nav-link" href="https://haleywitherell.github.io/Health-Wellness/" className="btn btn-outline-dark m-2" target="_blank">View Site</a>
                         <a className="container d-flex justify-content-center text-dark nav-link" href="https://github.com/haleywitherell/Health-Wellness" className="btn btn-outline-dark m-2" target="_blank">View on GitHub</a>
                     </div>
@@ -31,7 +31,7 @@ const Portfolio = () => {
                 <img src={password} className="card-img-top" alt="Password Generator"/>
                     <div className="card-body">
                         <h3 className="card-title fw-bold">Password Generator</h3>
-                        <p className="card-text">Need a unique password created on the fly? Use the random password generator app which creates random passwords using capital letters, lowercase letters, numbers and or symbols.</p>
+                        <p className="card-text">Need a unique password created on the fly? Use the random password generator app which creates random passwords using a combination of uppercase letters, lowercase letters, numbers and or symbols.</p>
                         <a className="container d-flex justify-content-center text-dark nav-link" href="https://haleywitherell.github.io/Password-Generator/" className="btn btn-outline-dark m-2" target="_blank">View Site</a>
                         <a className="container d-flex justify-content-center text-dark nav-link" href="https://github.com/haleywitherell/Password-Generator" className="btn btn-outline-dark m-2" target="_blank">View on GitHub</a>
                     </div>
@@ -43,7 +43,7 @@ const Portfolio = () => {
                 <img src={travel} className="card-img-top" alt="Travel Blog"/>
                     <div className="card-body">
                         <h3 className="card-title fw-bold">Travel Blog</h3>
-                        <p className="card-text">Browse and write your own travel reviews of different cities, trips you've taken, etc. </p>
+                        <p className="card-text">Need advice on where to plan your next trip? Browse travel reviews of different countires and cities around the globe. You can also review your own trips and leave tips and travel hacks for others. </p>
                         <a className="container d-flex justify-content-center text-dark nav-link" href="https://intense-scrubland-56931.herokuapp.com/login" className="btn btn-outline-dark m-2" target="_blank">View Site</a>
                         <a className="container d-flex justify-content-center text-dark nav-link" href="https://github.com/bckasper/Travel-blog" className="btn btn-outline-dark m-2" target="_blank">View on GitHub</a>
                     </div>
@@ -70,7 +70,7 @@ const Portfolio = () => {
                 <img src={workout} className="card-img-top" alt="Fitness Tracker"/>
                     <div className="card-body">
                         <h3 className="card-title fw-bold">Fitness Tracker</h3>
-                        <p className="card-text">Put together and track your daily workouts using this app. Reference olds workouts using the last workout faeture</p>
+                        <p className="card-text">Put together and track your daily workouts using this app. This app has features set in place so you can pause and come back to a workout as well as reference past workouts.</p>
                         <a className="container d-flex justify-content-center text-dark nav-link" href="https://workout-tracker-app-12345.herokuapp.com/" className="btn btn-outline-dark m-2" target="_blank">View Site</a>
                         <a className="container d-flex justify-content-center text-dark nav-link" href="https://github.com/haleywitherell/workout-tracker" className="btn btn-outline-dark m-2" target="_blank">View on GitHub</a>
                     </div>
