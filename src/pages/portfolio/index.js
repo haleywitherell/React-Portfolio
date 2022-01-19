@@ -27,6 +27,9 @@ const Portfolio = () => {
                     </div>
                 </div>
             </div>
+
+        <br></br>
+        <br></br>
             
             <div className="col-12 col-md-6 col-lg-4">
                 <div className="card text-center h-100">

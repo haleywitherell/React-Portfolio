@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.292f01b0.css",
-    "main.js": "/React-Portfolio/static/js/main.7b89821d.js",
+    "main.js": "/React-Portfolio/static/js/main.653ca904.js",
     "static/js/787.66975ca6.chunk.js": "/React-Portfolio/static/js/787.66975ca6.chunk.js",
     "static/media/books.png": "/React-Portfolio/static/media/books.f65143cfd7a14fb858b3.png",
+    "static/media/artwatch.png": "/React-Portfolio/static/media/artwatch.ad3aa3223aa51240ac71.png",
     "static/media/planner.png": "/React-Portfolio/static/media/planner.9603211750426679b400.png",
     "static/media/travel-blog.png": "/React-Portfolio/static/media/travel-blog.643c1d2e8b67da02ed50.png",
     "static/media/Haley Witherell Resume Portfolio.pdf": "/React-Portfolio/static/media/Haley Witherell Resume Portfolio.2b315f682dd57648b974.pdf",
@@ -11,11 +12,11 @@
     "static/media/workout-tracker.png": "/React-Portfolio/static/media/workout-tracker.864663d39dca28d648c0.png",
     "index.html": "/React-Portfolio/index.html",
     "main.292f01b0.css.map": "/React-Portfolio/static/css/main.292f01b0.css.map",
-    "main.7b89821d.js.map": "/React-Portfolio/static/js/main.7b89821d.js.map",
+    "main.653ca904.js.map": "/React-Portfolio/static/js/main.653ca904.js.map",
     "787.66975ca6.chunk.js.map": "/React-Portfolio/static/js/787.66975ca6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.292f01b0.css",
-    "static/js/main.7b89821d.js"
+    "static/js/main.653ca904.js"
   ]
 }
