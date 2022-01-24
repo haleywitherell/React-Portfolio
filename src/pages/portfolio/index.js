@@ -21,7 +21,7 @@ const Portfolio = () => {
                     <img src={artwatch} className="card-img-top" alt="Meal and Workout Planner"/>
                     <div className="card-body">
                         <h3 className="card-title fw-bold">artWatch</h3>
-                        <p className="card-text">View an online art gallery! Search and bid for pieces of art made by local artists.</p>
+                        <p className="card-text">artWatch is an online art gallery where you can search and bid for artwork made by local artists.</p>
                         <a className="container d-flex justify-content-center text-dark nav-link" href="https://therealartwatch.herokuapp.com/" className="btn btn-outline-dark m-2" target="_blank">View Site</a>
                         <a className="container d-flex justify-content-center text-dark nav-link" href="https://github.com/lydiawdesign/artWatch" className="btn btn-outline-dark m-2" target="_blank">View on GitHub</a>
                     </div>
