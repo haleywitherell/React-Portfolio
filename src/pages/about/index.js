@@ -16,6 +16,9 @@ const About = () => {
                 <br></br>
                 <br></br>
                     <p1>I have experience in web devlopment, marketing, advertising, PR, account management, communications and design.</p1>
+                <br></br>
+                <br></br>
+                    <p>Web development skills include HTML, CSS, Bootstrap, JavaScript, jQuery, SQL, React, MongoDB, Express, Node.js, and API's.</p>
                 </div>   
                 <hr class="solid container"></hr>
             </div>
