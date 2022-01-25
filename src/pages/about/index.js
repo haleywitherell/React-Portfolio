@@ -9,8 +9,9 @@ const About = () => {
                 <div className="col-sm-4"> 
                     <img src={aboutme} className="img-fluid" width="250px" alt="Introduction photo of myself"></img>
                 </div>
-                <br></br>
-                <div className="col-sm-8">   
+                
+                <div className="col-sm-8">
+                <br></br>   
                     <p1>Hey i'm Haley! I am an aspiring web developer who recently earned a certificate in full stack web development from the Ohio State University. I am currently Cincinnati based but am open to opportunities anywhere.</p1>
                 <br></br>
                 <br></br>
